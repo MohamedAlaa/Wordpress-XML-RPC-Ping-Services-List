@@ -1,13 +1,3 @@
-# [Mohamed Alaa](http://seniorwebdesigner.com)
-
-Update Services are tools you can use to let other people know you've updated your blog. WordPress automatically notifies popular Update Services that you've updated your blog by sending a XML-RPC ping each time you create or update a post. In turn, Update Services process the ping and updates their proprietary indices with your update. Now people browsing sites like Technorati or Sphere can find your most recent posts!
-
-## Download [list.txt](https://github.com/MohamedAlaa/Wordpress-XML-RPC-Ping-Services-List/blob/master/list.txt)
-
-
-
-## Inline list for the Lazy people :)
-
 http://rpc.pingomatic.com/
 http://rpc.technorati.com/rpc/ping
 http://rpc.blogcatalog.com/
@@ -261,16 +251,3 @@ http://xping.pubsub.com/ping
 http://xping.pubsub.com/ping/
 http://zhuaxia.com/rpc/server.php
 http://zing.zingfast.com
-
-
-## Contributing
-
-Anyone and everyone is welcome to contribute.
-
-
-## Project information
-
-* Source: http://github.com/MohamedAlaa/Wordpress-XML-RPC-Ping-Services-List
-* Web: http://seniorwebdesigner.com
-* Blog: http://egypt-webdesign.com
-* Twitter: twitter.com/MohammedAlaa
